@@ -27,7 +27,7 @@ namespace ABBCommTest
         public void Exeption(Exception ex)
         {
             log.Error(ex);
-        }
+        } 
 
         public void Message(string message)
         {
